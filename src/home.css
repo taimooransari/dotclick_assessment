@@ -140,6 +140,7 @@ html {
 
 .det div {
     padding: 1% 0;
+    width: fit-content;
 
 }
 
