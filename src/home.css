@@ -153,13 +153,13 @@ html {
 
 .det div h2 {
     color: color(srgb 0.2771 0.6753 0.47);
-    font-size: 18px;
+    font-size: 15px;
     margin: 2% 0;
 }
 
 .det div p {
     color: var(--color-texthighlight, #a09b9b);
-    font-size: 13px;
+    font-size: 11px;
     margin: 0;
 }
 
